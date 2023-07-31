@@ -6,7 +6,7 @@ Image is present at the VGA port in both RGB 15 kHz (aka SCART mode), and indust
 
 At the bottom of the image, a series of hex numbers are shown: these are the current contents of DCDP registers, for debugging purposes. Current FPGA temperature is also shown in yellow characters.
 
-[(image)]
+![image](https://github.com/zxtres/test_carta_ajuste/blob/main/images/carta_ajuste_en_nec.jpg)
 
 This core also serves as example of how to use and instantiate the ZX3W wrapper.
 
